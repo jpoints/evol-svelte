@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset='utf-8'>
+	<meta name='viewport' content='width=device-width,initial-scale=1'>
+
+	<title>Svelte app</title>
+
+	<link rel='icon' type='image/png' href='/favicon.png'>
+	<link rel='stylesheet' href='/global.css'>
+	<link rel='stylesheet' href='/build/bundle.css'>
+
+	<script src='/build/bundle.js'></script>
+	<script src="https://cdn.tailwindcss.com"></script>
+
+</head>
+
+<body>
+	<div id="test1"></div>
+	<div class="flex flow-row w-full items-center justify-center bg-green-200 p-12">
+			<div id="test2"></div>
+			<div id="test3"></div>
+	</div>
+	<my-element name="bbb" />
+	<div class="flex">
+		<div class="w-1/3 m-2 p-4 bg-gray-200 text-lg">This is some text</div>
+		<div class="w-2/3" id="test4"></div>
+	</div>
+
+	<script>
+		new component.Welcome({
+			target: document.body.querySelector("#test1"),
+			props: {
+				name: 'juston'
+			}
+		});
+		new component.MyButton({
+			target: document.body.querySelector("#test2"),
+			props: {
+				name: 'Test'
+			}
+		});
+		new component.MyButton({
+			target: document.body.querySelector("#test3"),
+			props: {
+				name: 'Another'
+			}
+		});
+		new component.JsonFeed({
+			target: document.body.querySelector("#test4"),
+			props: {
+				path: '/npr.json'
+			}
+		});
+	</script>
+</body>
+</html>

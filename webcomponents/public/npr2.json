@@ -1,0 +1,73 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "World",
+    "home_page_url": "https://www.npr.org/sections/world/?utm_medium=JSONFeed&utm_campaign=world",
+    "feed_url": "https://feeds.npr.org/1004/feed.json",
+    "description": "NPR world news, international art and culture, world business and financial markets, world economy, and global trends in health, science and technology. Subscribe to the World Story of the Day podcast and RSS feed.",
+    "icon": "https://media.npr.org/images/stations/nprone_logos/npr.png",
+    "author": {
+    "name": "NPR",
+    "url": "https://www.npr.org?utm_medium=JSONFeed&utm_campaign=world",
+    "avatar": "https://media.npr.org/images/stations/nprone_logos/npr.png"
+    },
+    "items": [
+    {
+    "id": "1085334345",
+    "url": "https://www.npr.org/2022/03/09/1085334345/vice-president-harris-is-going-to-poland-after-the-u-s-rejected-fighter-jet-offe?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "Vice President Harris is going to Poland after the U.S. rejected fighter jet offer",
+    "content_html": "<p>Poland offered to stage fighter jets for Ukraine on a U.S. base in Germany. The Pentagon said that wasn't tenable. It all happened the day before Vice President Harris left for Warsaw.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085334345' />",
+    "summary": "Poland offered to stage fighter jets for Ukraine on a U.S. base in Germany. The Pentagon said that wasn't tenable. It all happened the day before Vice President Harris left for Warsaw.",
+    "image": "https://media.npr.org/assets/img/2022/03/08/gettyimages-1371485139-db187b9097f9c9105f4a107ca154318eaab38216.jpg",
+    "date_published": "2022-03-09T05:20:00-05:00",
+    "author": {
+    "name": "NPR Staff"
+    },
+    "tags": [
+    "Kamala Harris",
+    "Romania",
+    "U.S.",
+    "poland",
+    "Ukraine",
+    "Russia",
+    "NATO"
+    ]
+    },
+    {
+    "id": "1085220209",
+    "url": "https://www.npr.org/2022/03/09/1085220209/ukraine-libraries-bomb-shelters?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "Ukraine's libraries are offering bomb shelters, camouflage classes, and yes, books",
+    "content_html": "<p>One bundle of homemade camouflage netting was packaged with a note reading, \"Death to enemies.\" The libraries are also sending Ukrainian books out of the country, to refugees who have fled.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085220209' />",
+    "summary": "One bundle of homemade camouflage netting was packaged with a note reading, \"Death to enemies.\" The libraries are also sending Ukrainian books out of the country, to refugees who have fled.",
+    "image": "https://media.npr.org/assets/img/2022/03/08/mykolaiv-library-kids_wide-2fc763216a1ea799b266a01e4e5c3f1f22daaa4e.jpg",
+    "date_published": "2022-03-09T05:01:23-05:00",
+    "author": {
+    "name": "Bill Chappell",
+    "url": "https://www.npr.org/people/14562108/bill-chappell?utm_medium=JSONFeed&utm_campaign=world"
+    },
+    "tags": [
+    "libraries",
+    "Ukraine"
+    ]
+    },
+    {
+    "id": "1085306040",
+    "url": "https://www.npr.org/2022/03/09/1085306040/the-war-in-ukraine-has-derailed-one-american-familys-adoption-plan?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "The war in Ukraine has derailed one American family's adoption plan",
+    "content_html": "<p>The Bell family has been trying to adopt Vanya and Serogzha from Ukraine for about two years.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085306040' />",
+    "summary": "The Bell family has been trying to adopt Vanya and Serogzha from Ukraine for about two years.",
+    "image": "https://media.npr.org/assets/img/2022/03/08/ukraineadoption-5819-ceee0d8f874a6424b8764cca5feb460a7ab07d60.jpg",
+    "date_published": "2022-03-09T05:00:54-05:00",
+    "date_modified": "2022-03-09T06:29:00-05:00",
+    "author": {
+    "name": "Susan Sharon",
+    "url": "https://www.mainepublic.org/people/susan-sharon?utm_medium=JSONFeed&utm_campaign=world"
+    },
+    "tags": [
+    "adoptions",
+    "ukrainian",
+    "Ukraine",
+    "Maine"
+    ]
+    }
+    ]
+    }

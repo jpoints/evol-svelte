@@ -1,0 +1,425 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "World",
+    "home_page_url": "https://www.npr.org/sections/world/?utm_medium=JSONFeed&utm_campaign=world",
+    "feed_url": "https://feeds.npr.org/1004/feed.json",
+    "description": "NPR world news, international art and culture, world business and financial markets, world economy, and global trends in health, science and technology. Subscribe to the World Story of the Day podcast and RSS feed.",
+    "icon": "https://media.npr.org/images/stations/nprone_logos/npr.png",
+    "author": {
+    "name": "NPR",
+    "url": "https://www.npr.org?utm_medium=JSONFeed&utm_campaign=world",
+    "avatar": "https://media.npr.org/images/stations/nprone_logos/npr.png"
+    },
+    "items": [
+    {
+    "id": "1085334345",
+    "url": "https://www.npr.org/2022/03/09/1085334345/vice-president-harris-is-going-to-poland-after-the-u-s-rejected-fighter-jet-offe?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "Vice President Harris is going to Poland after the U.S. rejected fighter jet offer",
+    "content_html": "<p>Poland offered to stage fighter jets for Ukraine on a U.S. base in Germany. The Pentagon said that wasn't tenable. It all happened the day before Vice President Harris left for Warsaw.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085334345' />",
+    "summary": "Poland offered to stage fighter jets for Ukraine on a U.S. base in Germany. The Pentagon said that wasn't tenable. It all happened the day before Vice President Harris left for Warsaw.",
+    "image": "https://media.npr.org/assets/img/2022/03/08/gettyimages-1371485139-db187b9097f9c9105f4a107ca154318eaab38216.jpg",
+    "date_published": "2022-03-09T05:20:00-05:00",
+    "author": {
+    "name": "NPR Staff"
+    },
+    "tags": [
+    "Kamala Harris",
+    "Romania",
+    "U.S.",
+    "poland",
+    "Ukraine",
+    "Russia",
+    "NATO"
+    ]
+    },
+    {
+    "id": "1085220209",
+    "url": "https://www.npr.org/2022/03/09/1085220209/ukraine-libraries-bomb-shelters?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "Ukraine's libraries are offering bomb shelters, camouflage classes, and yes, books",
+    "content_html": "<p>One bundle of homemade camouflage netting was packaged with a note reading, \"Death to enemies.\" The libraries are also sending Ukrainian books out of the country, to refugees who have fled.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085220209' />",
+    "summary": "One bundle of homemade camouflage netting was packaged with a note reading, \"Death to enemies.\" The libraries are also sending Ukrainian books out of the country, to refugees who have fled.",
+    "image": "https://media.npr.org/assets/img/2022/03/08/mykolaiv-library-kids_wide-2fc763216a1ea799b266a01e4e5c3f1f22daaa4e.jpg",
+    "date_published": "2022-03-09T05:01:23-05:00",
+    "author": {
+    "name": "Bill Chappell",
+    "url": "https://www.npr.org/people/14562108/bill-chappell?utm_medium=JSONFeed&utm_campaign=world"
+    },
+    "tags": [
+    "libraries",
+    "Ukraine"
+    ]
+    },
+    {
+    "id": "1085306040",
+    "url": "https://www.npr.org/2022/03/09/1085306040/the-war-in-ukraine-has-derailed-one-american-familys-adoption-plan?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "The war in Ukraine has derailed one American family's adoption plan",
+    "content_html": "<p>The Bell family has been trying to adopt Vanya and Serogzha from Ukraine for about two years.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085306040' />",
+    "summary": "The Bell family has been trying to adopt Vanya and Serogzha from Ukraine for about two years.",
+    "image": "https://media.npr.org/assets/img/2022/03/08/ukraineadoption-5819-ceee0d8f874a6424b8764cca5feb460a7ab07d60.jpg",
+    "date_published": "2022-03-09T05:00:54-05:00",
+    "date_modified": "2022-03-09T06:29:00-05:00",
+    "author": {
+    "name": "Susan Sharon",
+    "url": "https://www.mainepublic.org/people/susan-sharon?utm_medium=JSONFeed&utm_campaign=world"
+    },
+    "tags": [
+    "adoptions",
+    "ukrainian",
+    "Ukraine",
+    "Maine"
+    ]
+    },
+    {
+    "id": "1085354511",
+    "url": "https://www.npr.org/2022/03/09/1085354511/who-africas-1st-woman-leader-helps-continent-fight-covid?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "WHO Africa's 1st woman leader helps continent fight COVID",
+    "content_html": "<p>Dr. Matshidiso Moeti has become one of the world's most compelling voices urging better consideration of Africa's people — especially women.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085354511' />",
+    "summary": "Dr. Matshidiso Moeti has become one of the world's most compelling voices urging better consideration of Africa's people — especially women.",
+    "image": "https://media.npr.org/assets/img/2022/03/09/ap22067439970056-32a00acbb58d6d932fda45fa11ce55ceeaf21161.jpg",
+    "date_published": "2022-03-09T03:39:36-05:00",
+    "author": {
+    "name": "The Associated Press"
+    },
+    "tags": [
+    "COVID-19",
+    "World",
+    "women",
+    "WHO",
+    "Africa"
+    ]
+    },
+    {
+    "id": "1085342733",
+    "url": "https://www.npr.org/2022/03/09/1085342733/venezuela-releases-2-americans-after-visit-from-u-s-officials?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "Venezuela releases 2 Americans after visit from U.S. officials",
+    "content_html": "<p>A high-level delegation traveled to the South American country last weekend to in part discuss the health of detained U.S. citizens.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085342733' />",
+    "summary": "A high-level delegation traveled to the South American country last weekend to in part discuss the health of detained U.S. citizens.",
+    "image": "https://media.npr.org/assets/img/2022/03/08/ap22067498103348-1397c1f89d24384465be5c26a66d3d1f0851aa13.jpg",
+    "date_published": "2022-03-09T00:13:20-05:00",
+    "author": {
+    "name": "Franco Ordoñez",
+    "url": "https://www.npr.org/people/729411445/franco-ordonez?utm_medium=JSONFeed&utm_campaign=world",
+    "avatar": "https://media.npr.org/assets/img/2019/06/12/wany3813_custom-720edf7702320e5bca42af8624b54ad82f5c99f6.jpg"
+    },
+    "tags": [
+    "U.S.",
+    "Venezuela"
+    ]
+    },
+    {
+    "id": "1085328911",
+    "url": "https://www.npr.org/2022/03/08/1085328911/sex-abuse-lawsuit-against-prince-andrew-has-been-formally-dismissed-by-a-judge?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "Sex abuse lawsuit against Prince Andrew has been formally dismissed by a judge",
+    "content_html": "<p>Lawyers revealed three weeks ago that they had tentatively agreed to a settlement in which the prince would donate to Virginia Giuffre's charity and declare he didn't intend to malign her character.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085328911' />",
+    "summary": "Lawyers revealed three weeks ago that they had tentatively agreed to a settlement in which the prince would donate to Virginia Giuffre's charity and declare he didn't intend to malign her character.",
+    "image": "https://media.npr.org/assets/img/2022/03/08/ap22046585410880-9640e3df245880d02d327d0c55730e04bdd03f02.jpg",
+    "date_published": "2022-03-08T21:19:44-05:00",
+    "author": {
+    "name": "The Associated Press"
+    },
+    "tags": [
+    "virginia giuffre",
+    "Prince Andrew",
+    "Jeffrey Epstein",
+    "sex abuse"
+    ]
+    },
+    {
+    "id": "1085123849",
+    "url": "https://www.npr.org/2022/03/08/1085123849/russia-ukraine-war-what-happened-today-march-8?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "Russia-Ukraine war: What happened today (March 8)",
+    "content_html": "<p>A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085123849' />",
+    "summary": "A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.",
+    "image": "https://media.npr.org/assets/img/2022/03/08/gettyimages-1239030706_custom-e994fa1ee7936eb29fd149fb40106cb26ced7ca9.jpg",
+    "date_published": "2022-03-08T17:05:00-05:00",
+    "date_modified": "2022-03-08T22:37:00-05:00",
+    "author": {
+    "name": "NPR Staff"
+    },
+    "tags": [
+    "Russian invasion",
+    "Ukrainian refugees",
+    "Ukraine invasion",
+    "Russia Ukraine",
+    "Ukraine",
+    "Russia"
+    ]
+    },
+    {
+    "id": "1085176462",
+    "url": "https://www.npr.org/2022/03/08/1085176462/ukrainian-athletes-paralympics-podium-sweep?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "Ukrainian athletes are dominating the Paralympics, despite the uncertainty at home",
+    "content_html": "<p>They swept the podium in two separate biathlon events on Tuesday and are second in the medal count. But the troubles at home are never far from their minds.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085176462' />",
+    "summary": "They swept the podium in two separate biathlon events on Tuesday and are second in the medal count. But the troubles at home are never far from their minds.",
+    "image": "https://media.npr.org/assets/img/2022/03/08/ap22067325804747-e99cdff8083487e452e896eba3a5008d4cf7da33.jpg",
+    "date_published": "2022-03-08T15:09:50-05:00",
+    "date_modified": "2022-03-08T15:13:00-05:00",
+    "author": {
+    "name": "Rachel Treisman",
+    "url": "https://www.npr.org/people/776048102/rachel-treisman?utm_medium=JSONFeed&utm_campaign=world"
+    },
+    "tags": [
+    "beijing paralympics",
+    "Russia Ukraine",
+    "Paralympics"
+    ]
+    },
+    {
+    "id": "1085179372",
+    "url": "https://www.npr.org/2022/03/08/1085179372/mcdonalds-russia-companies-ukraine?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "McDonald's, Coca-Cola, PepsiCo and Starbucks join a corporate exodus from Russia",
+    "content_html": "<p>The big American companies are the latest to suspend their operations in the wake of Russia's invasion of Ukraine. </p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085179372' />",
+    "summary": "The big American companies are the latest to suspend their operations in the wake of Russia's invasion of Ukraine.",
+    "image": "https://media.npr.org/assets/img/2022/03/08/ap22067635771869-94202fc7e5e19445c3a613b23f56388c0a35aade.jpg",
+    "date_published": "2022-03-08T14:55:02-05:00",
+    "date_modified": "2022-03-08T16:31:00-05:00",
+    "author": {
+    "name": "Rina Torchinsky",
+    "url": "https://www.npr.org/people/1051633061/rina-torchinsky?utm_medium=JSONFeed&utm_campaign=world"
+    },
+    "tags": [
+    "pepsico",
+    "coca-cola",
+    "McDonald's",
+    "Starbucks",
+    "Russia"
+    ]
+    },
+    {
+    "id": "1085105946",
+    "url": "https://www.npr.org/2022/03/08/1085105946/ukraine-russia-rescue-evacuation-premature-babies?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "A rescue team evacuates premature American twins from Kyiv in a daring mission",
+    "content_html": "<p>The twin boys, Lenny and Moishe, were born just as Russia invaded Ukraine. A specialist team of U.S. Army veterans hatched a desperate plan to bring them into Poland and, hopefully, to safety.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085105946' />",
+    "summary": "The twin boys, Lenny and Moishe, were born just as Russia invaded Ukraine. A specialist team of U.S. Army veterans hatched a desperate plan to bring them into Poland and, hopefully, to safety.",
+    "image": "https://media.npr.org/assets/img/2022/03/08/lenny-and-moishe-home-d7f8b15e32be67e419aabd0073e214a18f0ee8ca.png",
+    "date_published": "2022-03-08T14:30:00-05:00",
+    "date_modified": "2022-03-08T22:48:00-05:00",
+    "author": {
+    "name": "Leila Fadel",
+    "url": "https://www.npr.org/people/158988722/leila-fadel?utm_medium=JSONFeed&utm_campaign=world",
+    "avatar": "https://media.npr.org/assets/img/2022/01/03/leila-fadel_vert-7f8dfe1c0ba36e0b07ab1630ad10d1f5695ecbc7.jpg"
+    },
+    "attachments": [
+    {
+    "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/03/20220308_atc_web_exfiltrating_americans_ukraine.mp3?orgId=1&d=613&p=1085247848&story=1085105946&t=progseg&e=1085247848&seg=1&ft=rss&f=1085247848",
+    "mime_type": "audio/mp3",
+    "title": "Listen to the Story",
+    "duration_in_seconds": 613
+    },
+    {
+    "url": "https://ondemand.npr.org/npr-mp4/npr/atc/2022/03/20220308_atc_web_exfiltrating_americans_ukraine.mp4?orgId=1&d=613&p=1085247848&story=1085105946&t=progseg&e=1085247848&seg=1&ft=rss&f=1085247848",
+    "mime_type": "audio/aac",
+    "title": "Listen to the Story",
+    "duration_in_seconds": 613
+    },
+    {
+    "url": "https://ondemandhls.npr.org/nprhls//npr/atc/2022/03/20220308_atc_web_exfiltrating_americans_ukraine/master.m3u8?orgId=1&d=613&p=1085247848&story=1085105946&t=progseg&e=1085247848&seg=1&ft=rss&f=1085247848",
+    "mime_type": "audio/m3u8",
+    "title": "Listen to the Story",
+    "duration_in_seconds": 613
+    }
+    ]
+    },
+    {
+    "id": "1085200492",
+    "url": "https://www.npr.org/2022/03/08/1085200492/ukraine-2-million-refugees-russian-invasion?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "More than 2 million people have fled Ukraine, 12 days after Russia invaded",
+    "content_html": "<p>The number of refugees has has increased exponentially in the last few days as Russian forces amped up their shelling of critical and civilian infrastructure.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085200492' />",
+    "summary": "The number of refugees has has increased exponentially in the last few days as Russian forces amped up their shelling of critical and civilian infrastructure.",
+    "image": "https://media.npr.org/assets/img/2022/03/08/gettyimages-1239023172-4730ff7e0505ce4bfa73541d86f83227df65788e.jpg",
+    "date_published": "2022-03-08T14:20:56-05:00",
+    "author": {
+    "name": "Rachel Treisman",
+    "url": "https://www.npr.org/people/776048102/rachel-treisman?utm_medium=JSONFeed&utm_campaign=world"
+    }
+    },
+    {
+    "id": "1085155440",
+    "url": "https://www.npr.org/2022/03/08/1085155440/cia-director-putin-is-angry-and-frustrated-likely-to-double-down?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "Stalled and frustrated, Putin will likely 'double down' in the coming weeks, CIA says",
+    "content_html": "<p>CIA Director William Burns says Russia's invasion of Ukraine has fallen far short of Vladimir Putin's expectations. Burns now predicts weeks of \"ugly\" fighting for control of Ukraine's cities.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085155440' />",
+    "summary": "CIA Director William Burns says Russia's invasion of Ukraine has fallen far short of Vladimir Putin's expectations. Burns now predicts weeks of \"ugly\" fighting for control of Ukraine's cities.",
+    "image": "https://media.npr.org/assets/img/2022/03/08/bill-burns---3-8-22-ap_22067637802677_custom-529253681dc17759256e1bc07ee7744cb2353e34.jpg",
+    "date_published": "2022-03-08T13:59:00-05:00",
+    "date_modified": "2022-03-08T22:48:00-05:00",
+    "author": {
+    "name": "Greg Myre",
+    "url": "https://www.npr.org/people/348766539/greg-myre?utm_medium=JSONFeed&utm_campaign=world",
+    "avatar": "https://media.npr.org/assets/img/2016/04/06/greg-myre_sq-876e4a19bb596295155dcd119720ccde2d602869.jpg"
+    },
+    "tags": [
+    "Russia Ukraine",
+    "House Intelligence Committee",
+    "Russia"
+    ],
+    "attachments": [
+    {
+    "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/03/20220308_atc_stalled_and_frustrated_putin_will_likely_double-down_in_the_coming_weeks_cia_says.mp3?orgId=1&d=218&p=1085247848&story=1085155440&t=progseg&e=1085247848&seg=4&ft=rss&f=1085247848",
+    "mime_type": "audio/mp3",
+    "title": "Listen to the Story",
+    "duration_in_seconds": 218
+    },
+    {
+    "url": "https://ondemand.npr.org/npr-mp4/npr/atc/2022/03/20220308_atc_stalled_and_frustrated_putin_will_likely_double-down_in_the_coming_weeks_cia_says.mp4?orgId=1&d=218&p=1085247848&story=1085155440&t=progseg&e=1085247848&seg=4&ft=rss&f=1085247848",
+    "mime_type": "audio/aac",
+    "title": "Listen to the Story",
+    "duration_in_seconds": 218
+    },
+    {
+    "url": "https://ondemandhls.npr.org/nprhls//npr/atc/2022/03/20220308_atc_stalled_and_frustrated_putin_will_likely_double-down_in_the_coming_weeks_cia_says/master.m3u8?orgId=1&d=218&p=1085247848&story=1085155440&t=progseg&e=1085247848&seg=4&ft=rss&f=1085247848",
+    "mime_type": "audio/m3u8",
+    "title": "Listen to the Story",
+    "duration_in_seconds": 218
+    }
+    ]
+    },
+    {
+    "id": "1085177511",
+    "url": "https://www.npr.org/2022/03/08/1085177511/yo-yo-ma-performs-a-musical-protest-outside-the-russian-embassy?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "Yo-Yo Ma performs a musical protest outside the Russian Embassy",
+    "content_html": "<p>The world-famous cellist made a personal stand with Ukraine on Monday, setting up his instrument on the sidewalk in Washington, D.C., next to an improvised street sign reading, \"Zelensky Way.\"</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085177511' />",
+    "summary": "The world-famous cellist made a personal stand with Ukraine on Monday, setting up his instrument on the sidewalk in Washington, D.C., next to an improvised street sign reading, \"Zelensky Way.\"",
+    "image": "https://media.npr.org/assets/img/2022/03/08/gettyimages-983860814-2cb56a3b31862d1049f5ceecb761c9a4bab8ee0d.jpg",
+    "date_published": "2022-03-08T13:25:25-05:00",
+    "date_modified": "2022-03-08T14:20:00-05:00",
+    "author": {
+    "name": "Bill Chappell",
+    "url": "https://www.npr.org/people/14562108/bill-chappell?utm_medium=JSONFeed&utm_campaign=world"
+    }
+    },
+    {
+    "id": "1085033015",
+    "url": "https://www.npr.org/sections/pictureshow/2022/03/08/1085033015/photos-ukraine-orthodox-church-russia-invasion-patriarch?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "Some of Ukraine's Orthodox churches want to break away from their Russian patriarch",
+    "content_html": "<p>At church, Ukrainians pray for an end to war. But a rift is forming: The head of the Russian Orthodox Church has defended Moscow's invasion. Some in Ukraine want to break away from his leadership.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085033015' />",
+    "summary": "At church, Ukrainians pray for an end to war. But a rift is forming: The head of the Russian Orthodox Church has defended Moscow's invasion. Some in Ukraine want to break away from his leadership.",
+    "image": "https://media.npr.org/assets/img/2022/03/07/2022-03-06-ukraine-charbage-47_custom-f62ffc87ac5ea52c10efccbf55a7a5a2c935f059.jpg",
+    "date_published": "2022-03-08T11:55:44-05:00",
+    "date_modified": "2022-03-08T22:48:00-05:00",
+    "author": {
+    "name": "Lauren Frayer",
+    "url": "https://www.npr.org/people/463861805/lauren-frayer?utm_medium=JSONFeed&utm_campaign=world"
+    },
+    "tags": [
+    "Russia Ukraine",
+    "Orthodox church",
+    "Ukraine",
+    "Christianity"
+    ],
+    "attachments": [
+    {
+    "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2022/03/20220308_atc_some_of_ukraines_orthodox_churches_want_to_break_away_from_their_russian_patriarch.mp3?orgId=1&d=274&p=1085247848&story=1085033015&t=progseg&e=1085247848&seg=5&ft=rss&f=1085247848",
+    "mime_type": "audio/mp3",
+    "title": "Listen to the Story",
+    "duration_in_seconds": 274
+    },
+    {
+    "url": "https://ondemand.npr.org/npr-mp4/npr/atc/2022/03/20220308_atc_some_of_ukraines_orthodox_churches_want_to_break_away_from_their_russian_patriarch.mp4?orgId=1&d=274&p=1085247848&story=1085033015&t=progseg&e=1085247848&seg=5&ft=rss&f=1085247848",
+    "mime_type": "audio/aac",
+    "title": "Listen to the Story",
+    "duration_in_seconds": 274
+    },
+    {
+    "url": "https://ondemandhls.npr.org/nprhls//npr/atc/2022/03/20220308_atc_some_of_ukraines_orthodox_churches_want_to_break_away_from_their_russian_patriarch/master.m3u8?orgId=1&d=274&p=1085247848&story=1085033015&t=progseg&e=1085247848&seg=5&ft=rss&f=1085247848",
+    "mime_type": "audio/m3u8",
+    "title": "Listen to the Story",
+    "duration_in_seconds": 274
+    }
+    ]
+    },
+    {
+    "id": "1085111819",
+    "url": "https://www.npr.org/2022/03/08/1085111819/as-south-koreans-go-to-the-polls-a-backlash-against-feminism-has-become-politica?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "As South Koreans go to the polls, a backlash against feminism has become political",
+    "content_html": "<p>Young voters are considered a key voting bloc as the ruling Democratic Party and the conservative opposition People Power Party vie to secure the presidency. But gender issues divide South Koreans.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085111819' />",
+    "summary": "Young voters are considered a key voting bloc as the ruling Democratic Party and the conservative opposition People Power Party vie to secure the presidency. But gender issues divide South Koreans.",
+    "image": "https://media.npr.org/assets/img/2022/03/08/gettyimages-1239025016_custom-a87042d93eed25f0ee5f8eb5a5d3085d6db3dc0b.jpg",
+    "date_published": "2022-03-08T10:33:03-05:00",
+    "date_modified": "2022-03-08T10:42:00-05:00",
+    "author": {
+    "name": "Anthony Kuhn",
+    "url": "https://www.npr.org/people/4458700/anthony-kuhn?utm_medium=JSONFeed&utm_campaign=world",
+    "avatar": "https://media.npr.org/assets/img/2018/06/27/akuhn_vert-c7a12736900b5b32693450a3512de61e1d390396.jpg"
+    },
+    "tags": [
+    "feminism",
+    "South Korea"
+    ],
+    "attachments": [
+    {
+    "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2022/03/20220308_me_gender_equality_has_become_a_polarizing_issue_in_south_koreas_presidential_election.mp3?orgId=1&d=211&story=1085111819&ft=rss",
+    "mime_type": "audio/mp3",
+    "title": "Listen to the Story",
+    "duration_in_seconds": 211
+    },
+    {
+    "url": "https://ondemand.npr.org/npr-mp4/npr/me/2022/03/20220308_me_gender_equality_has_become_a_polarizing_issue_in_south_koreas_presidential_election.mp4?orgId=1&d=211&story=1085111819&ft=rss",
+    "mime_type": "audio/aac",
+    "title": "Listen to the Story",
+    "duration_in_seconds": 211
+    },
+    {
+    "url": "https://ondemandhls.npr.org/nprhls//npr/me/2022/03/20220308_me_gender_equality_has_become_a_polarizing_issue_in_south_koreas_presidential_election/master.m3u8?orgId=1&d=211&story=1085111819&ft=rss",
+    "mime_type": "audio/m3u8",
+    "title": "Listen to the Story",
+    "duration_in_seconds": 211
+    }
+    ]
+    },
+    {
+    "id": "1085089048",
+    "url": "https://www.npr.org/2022/03/08/1085089048/biden-ban-imports-russia-oil?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "Biden announces Russian oil import ban and warns gas prices could increase even more",
+    "content_html": "<p>President Biden described the move as a critical step to punishing Russian President Vladimir Putin for invading Ukraine, but said as a result, Americans should prepare for price hikes at the pump. </p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085089048' />",
+    "summary": "President Biden described the move as a critical step to punishing Russian President Vladimir Putin for invading Ukraine, but said as a result, Americans should prepare for price hikes at the pump.",
+    "image": "https://media.npr.org/assets/img/2022/03/07/gettyimages-1238985632-7e80925861c3d16f26278a699aee15e572a342fd.jpg",
+    "date_published": "2022-03-08T09:10:09-05:00",
+    "date_modified": "2022-03-08T15:15:00-05:00",
+    "author": {
+    "name": "Scott Detrow",
+    "url": "https://www.npr.org/people/444796749/scott-detrow?utm_medium=JSONFeed&utm_campaign=world",
+    "avatar": "https://media.npr.org/assets/img/2018/03/21/npr_90965992_large_vert-b9279731d1260457fcb07c51f737013e4687f0a7.jpg"
+    },
+    "tags": [
+    "russian oil",
+    "sanctions",
+    "Ukraine",
+    "Joe Biden"
+    ]
+    },
+    {
+    "id": "1084280072",
+    "url": "https://www.npr.org/sections/money/2022/03/08/1084280072/how-sanctions-are-pinning-down-the-russian-economy?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "How sanctions are pinning down the Russian economy",
+    "content_html": "<p>The Russian economy is cratering under the weight of Western sanctions. Russian policymakers are struggling with how to respond — and what to wear.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1084280072' />",
+    "summary": "The Russian economy is cratering under the weight of Western sanctions. Russian policymakers are struggling with how to respond — and what to wear.",
+    "image": "https://media.npr.org/assets/img/2022/03/03/gettyimages-900120580-d9b3e2b7e77fde230c9b2138b672266e2ffc1090.jpg",
+    "date_published": "2022-03-08T06:30:00-05:00",
+    "date_modified": "2022-03-08T22:12:00-05:00",
+    "author": {
+    "name": "Greg Rosalsky",
+    "url": "https://www.npr.org/people/726239784/greg-rosalsky?utm_medium=JSONFeed&utm_campaign=world"
+    },
+    "tags": [
+    "bank of russia",
+    "nabiullina",
+    "pins"
+    ]
+    },
+    {
+    "id": "1085023029",
+    "url": "https://www.npr.org/2022/03/08/1085023029/russias-invasion-puts-a-new-light-on-trumps-ukraine-pressure-campaign?utm_medium=JSONFeed&utm_campaign=world",
+    "title": "Russia's invasion puts a new light on Trump's Ukraine pressure campaign",
+    "content_html": "<p>With Russia's brutal invasion and Ukrainian President Volodymyr Zelenskyy being hailed as a hero, Trump's infamous 2019 call to Zelenskyy is put into a very different light.</p><img src='https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=1085023029' />",
+    "summary": "With Russia's brutal invasion and Ukrainian President Volodymyr Zelenskyy being hailed as a hero, Trump's infamous 2019 call to Zelenskyy is put into a very different light.",
+    "image": "https://media.npr.org/assets/img/2022/03/07/gettyimages-1238791824_custom-cdc9bd279b3e02bbd8609d4d7d0a84e75d612b37.jpg",
+    "date_published": "2022-03-08T05:21:00-05:00",
+    "date_modified": "2022-03-08T11:42:00-05:00",
+    "author": {
+    "name": "Domenico Montanaro",
+    "url": "https://www.npr.org/people/392602474/domenico-montanaro?utm_medium=JSONFeed&utm_campaign=world",
+    "avatar": "https://media.npr.org/assets/img/2015/03/24/domenico_montanaro_npr_007_sq-91c49487814945192035ed885c8239a7fcbed9bd.jpg"
+    }
+    }
+    ]
+    }

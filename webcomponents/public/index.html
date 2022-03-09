@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset='utf-8'>
+	<meta name='viewport' content='width=device-width,initial-scale=1'>
+
+	<title>Svelte app</title>
+
+	<link rel='icon' type='image/png' href='/favicon.png'>
+
+	<script defer src='/build/bundle.js'></script>
+	<script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body style="background-color: white;">
+	<my-welcome name="rabbits"></my-welcome>
+	<my-button name="button"></my-button>
+	<my-button name="Hello"></my-button>
+	<my-card title="this is my card">
+		<p>I am content <a class="text-blue-500" href="/test.html">test</a></p>
+	</my-card>
+	<my-card title="News">
+		<json-feed path="/npr2.json" />
+	</my-card>
+	<div class="flex">
+		<div class="w-1/3 m-2 p-4 bg-gray-200 text-lg">This is some text</div>
+		<div class="w-2/3">	
+			<json-feed path="/npr2.json" />
+		</div>
+	</div>
+</body>
+</html>
