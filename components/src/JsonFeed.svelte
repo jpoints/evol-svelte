@@ -20,7 +20,7 @@
         {#each data as item, i}
         <div class="w-full m-auto shadow-xl m-8">
                 <div class="p-4 text-center text-xl bg-blue-900 text-white">
-                        <h2>{item.title}</h2>
+                        <h2 class="text-white">{item.title}</h2>
                 </div>
                 <div class="flex text-xl">
                         <img class="w-64" src="{item.image}" />
