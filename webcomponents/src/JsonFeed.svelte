@@ -3,6 +3,7 @@
 <script> 
         export let path;
         let data = getNews();
+        console.log(path);
 
    async function getNews() {
 		const res = await fetch(path);
